@@ -1,5 +1,5 @@
 package by.home.module04.task10.entity;
-
+//
 public class Airline {
 	private String destination;
 	private int flightNumber;
